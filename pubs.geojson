@@ -26,6 +26,58 @@
           52.49004527376926
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997846007347107,
+          52.49492172391395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Boar's Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9979372024536133,
+          52.491449799112424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The King's Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9977869987487793,
+          52.49201159669033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crown & Anchor Vaults"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9977977275848384,
+          52.49403662142293
+        ]
+      }
     }
   ]
 }
