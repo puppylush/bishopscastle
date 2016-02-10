@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Tuns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.996971607208252,
+          52.49454776211979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Six Bells"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.998645305633545,
+          52.49004527376926
+        ]
+      }
+    }
+  ]
+}
