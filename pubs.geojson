@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Three Tuns"
+        "name": "Three Tuns",
+        "url": "http://www.thethreetunsinn.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Six Bells"
+        "name": "Six Bells",
+        "url": "http://www.sixbellsbrewery.com/"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The Castle"
+        "name": "The Castle",
+        "url": "http://www.thecastlehotelbishopscastle.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The Boar's Head"
+        "name": "The Boar's Head",
+        "url": "http://www.boarsheadhotel.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The King's Head"
+        "name": "The King's Head",
+        "url": "http://www.kingsheadbc.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crown & Anchor Vaults"
+        "name": "Crown & Anchor Vaults",
+        "url": "https://www.facebook.com/The-crown-and-anchor-vaults-201685649932184/"
       },
       "geometry": {
         "type": "Point",

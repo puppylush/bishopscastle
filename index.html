@@ -38,11 +38,10 @@
 		}).addTo(map);
 
 		$.getJSON("./pubs.geojson", function(data) {
-			var geojson = L.geoJson(data, {
-				onEachFeature: function (feature, layer) {
-					layer.bindPopup(feature.properties.name);
-				}
-			});
+			var geojson = L.geoJson(data)
+                        geojson.on('click', function(e) {
+                                document.location.href = e.layer.feature.properties.url;
+                        });
 			geojson.addTo(map);
 		});
 	</script>
