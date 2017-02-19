@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Tuns",
+        "url": "http://www.thethreetunsinn.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.996971607208252,
+          52.49454776211979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Six Bells",
+        "url": "http://www.sixbellsbrewery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.998645305633545,
+          52.49004527376926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Castle",
+        "url": "http://www.thecastlehotelbishopscastle.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997846007347107,
+          52.49492172391395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Boar's Head",
+        "url": "http://www.boarsheadhotel.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9979372024536133,
+          52.491449799112424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The King's Head",
+        "url": "http://www.kingsheadbc.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9977869987487793,
+          52.49201159669033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crown & Anchor Vaults",
+        "url": "https://www.facebook.com/The-crown-and-anchor-vaults-201685649932184/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9977977275848384,
+          52.49403662142293
+        ]
+      }
+    }
+  ]
+}

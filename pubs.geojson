@@ -1,87 +1,415 @@
 {
   "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-17T22:46:02Z",
   "features": [
     {
       "type": "Feature",
+      "id": "way/397231937",
       "properties": {
-        "name": "Three Tuns",
-        "url": "http://www.thethreetunsinn.co.uk/"
+        "@id": "way/397231937",
+        "name": "Castle Hotel",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-castle-hotel/",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "Castle Hotel",
+        "addr:postcode": "SY9 5BN",
+        "addr:street": "Market Square",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Castle Hotel",
+        "tourism": "hotel"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.996971607208252,
-          52.49454776211979
+          [
+            [
+              -2.9981305,
+              52.4950256
+            ],
+            [
+              -2.998137,
+              52.4950028
+            ],
+            [
+              -2.9981841,
+              52.4950076
+            ],
+            [
+              -2.9982619,
+              52.4949676
+            ],
+            [
+              -2.9982646,
+              52.4949415
+            ],
+            [
+              -2.9982163,
+              52.4949423
+            ],
+            [
+              -2.998223,
+              52.4948867
+            ],
+            [
+              -2.9981291,
+              52.4948614
+            ],
+            [
+              -2.9981227,
+              52.4948745
+            ],
+            [
+              -2.9980098,
+              52.4948663
+            ],
+            [
+              -2.9980071,
+              52.4948574
+            ],
+            [
+              -2.9979119,
+              52.4948574
+            ],
+            [
+              -2.9978797,
+              52.4950664
+            ],
+            [
+              -2.9980111,
+              52.4950696
+            ],
+            [
+              -2.9980634,
+              52.4950231
+            ],
+            [
+              -2.9981305,
+              52.4950256
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397235418",
       "properties": {
-        "name": "Six Bells",
-        "url": "http://www.sixbellsbrewery.com/"
+        "@id": "way/397235418",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-boars-head-inn/",
+        "addr:city": "Bishop's Castle",
+        "addr:street": "Union Street",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Boars Head Hotel"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.998645305633545,
-          52.49004527376926
+          [
+            [
+              -2.9980462,
+              52.4912694
+            ],
+            [
+              -2.9977083,
+              52.4912221
+            ],
+            [
+              -2.9976788,
+              52.491276
+            ],
+            [
+              -2.997786,
+              52.4912939
+            ],
+            [
+              -2.99777,
+              52.491338
+            ],
+            [
+              -2.9978558,
+              52.4913478
+            ],
+            [
+              -2.9978236,
+              52.4914491
+            ],
+            [
+              -2.9979738,
+              52.4914621
+            ],
+            [
+              -2.9980462,
+              52.4912694
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397245750",
       "properties": {
-        "name": "The Castle",
-        "url": "http://www.thecastlehotelbishopscastle.co.uk/"
+        "@id": "way/397245750",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-kings-head/",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "The King's Head",
+        "addr:housenumber": "48",
+        "addr:postcode": "SY9 5AA",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The King's Head"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.997846007347107,
-          52.49492172391395
+          [
+            [
+              -2.9978571,
+              52.4919848
+            ],
+            [
+              -2.9977338,
+              52.4919807
+            ],
+            [
+              -2.9977257,
+              52.4920395
+            ],
+            [
+              -2.9974993,
+              52.4920551
+            ],
+            [
+              -2.9975473,
+              52.4919938
+            ],
+            [
+              -2.9974725,
+              52.4919686
+            ],
+            [
+              -2.9974199,
+              52.492046
+            ],
+            [
+              -2.9973706,
+              52.4921205
+            ],
+            [
+              -2.9978399,
+              52.4920845
+            ],
+            [
+              -2.9978571,
+              52.4919848
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397248107",
       "properties": {
-        "name": "The Boar's Head",
-        "url": "http://www.boarsheadhotel.co.uk/"
+        "@id": "way/397248107",
+        "url": "http://lostpubsofbishopscastle.co.uk/6-bells-inn/",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "The Six Bells",
+        "addr:postcode": "SY9 5AA",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Six Bells",
+        "operator": "Six Bells Brewery"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.9979372024536133,
-          52.491449799112424
+          [
+            [
+              -2.9986722,
+              52.4901167
+            ],
+            [
+              -2.9987033,
+              52.490047
+            ],
+            [
+              -2.9986779,
+              52.4900274
+            ],
+            [
+              -2.9986309,
+              52.4900241
+            ],
+            [
+              -2.9985558,
+              52.49002
+            ],
+            [
+              -2.9985156,
+              52.4901033
+            ],
+            [
+              -2.998533,
+              52.4901466
+            ],
+            [
+              -2.9987865,
+              52.4902111
+            ],
+            [
+              -2.9988039,
+              52.4902005
+            ],
+            [
+              -2.9988562,
+              52.4901197
+            ],
+            [
+              -2.9987704,
+              52.4901082
+            ],
+            [
+              -2.9987503,
+              52.4901425
+            ],
+            [
+              -2.9986722,
+              52.4901167
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397250862",
       "properties": {
-        "name": "The King's Head",
-        "url": "http://www.kingsheadbc.co.uk/"
+        "@id": "way/397250862",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-crown-and-anchor/",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "Crown and Anchor Vaults",
+        "addr:housenumber": "30",
+        "addr:street": "High Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Crown and Anchor Vaults"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.9977869987487793,
-          52.49201159669033
+          [
+            [
+              -2.9978855,
+              52.4941439
+            ],
+            [
+              -2.9978963,
+              52.4940361
+            ],
+            [
+              -2.9977353,
+              52.4940181
+            ],
+            [
+              -2.9977246,
+              52.494121
+            ],
+            [
+              -2.9978855,
+              52.4941439
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/398427080",
       "properties": {
-        "name": "Crown & Anchor Vaults",
-        "url": "https://www.facebook.com/The-crown-and-anchor-vaults-201685649932184/"
+        "@id": "way/398427080",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-3-tuns/",
+        "addr:city": "Bishop's Castle",
+        "addr:postcode": "SY9 5BW",
+        "addr:street": "Salop Street",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "The 3 Tuns"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.9977977275848384,
-          52.49403662142293
+          [
+            [
+              -2.9970011,
+              52.4946294
+            ],
+            [
+              -2.9970199,
+              52.4945959
+            ],
+            [
+              -2.997038,
+              52.494593
+            ],
+            [
+              -2.9970628,
+              52.4945449
+            ],
+            [
+              -2.997048,
+              52.4945387
+            ],
+            [
+              -2.997048,
+              52.494533
+            ],
+            [
+              -2.9970688,
+              52.4945273
+            ],
+            [
+              -2.9970809,
+              52.4944791
+            ],
+            [
+              -2.9970138,
+              52.4944673
+            ],
+            [
+              -2.9969904,
+              52.4945355
+            ],
+            [
+              -2.9969642,
+              52.4945649
+            ],
+            [
+              -2.9968254,
+              52.4945249
+            ],
+            [
+              -2.9967919,
+              52.4945632
+            ],
+            [
+              -2.9969642,
+              52.4946098
+            ],
+            [
+              -2.9969803,
+              52.4946302
+            ],
+            [
+              -2.9970011,
+              52.4946294
+            ]
+          ]
         ]
       }
     }
